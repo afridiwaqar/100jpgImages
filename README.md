@@ -1,2 +1,2 @@
 # 100jpgImages
-Images for some project
+100 Images each of 2 MB each for some project
